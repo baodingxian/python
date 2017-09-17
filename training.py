@@ -43,6 +43,8 @@ MAX_STEP = 10000 # with current parameters, it is suggested to use MAX_STEP>10k
 learning_rate = 0.0001 # with current parameters, it is suggested to use learning rate<0.0001
 
 
+
+
 #%%
 def run_training():
     
